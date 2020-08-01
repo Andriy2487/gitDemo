@@ -4,6 +4,7 @@ public class GitDay {
 
         String name = "Git is wonderfull class";
 
-
+int l = name.length();
+        System.out.println(l);
     }
 }
